@@ -1,0 +1,16 @@
+[ 2018-02-28T11:35:54+08:00 ] 127.0.0.1 /index.php/Admin/Shitu/shitu.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000703s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001102s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001229s ]
+
+[ 2018-02-28T13:34:42+08:00 ] 127.0.0.1 /index.php/Admin/Shitu/shitu.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001177s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.013600s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.013651s ]
+

@@ -1,0 +1,216 @@
+[ 2018-03-15T16:32:02+08:00 ] 127.0.0.1 /index.php/Admin/Shitu/shitu.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.018193s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001438s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001475s ]
+NOTIC: [8] Undefined index: words_result H:\www\auto\Application\Admin\Controller\ShituController.class.php 第 47 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000031s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000070s ]
+NOTIC: [8] Undefined variable: product H:\www\auto\Application\Runtime\Cache\Admin\86260f151e905a457689981c5cfb4e00.php 第 16 行.
+NOTIC: [8] Undefined variable: res H:\www\auto\Application\Runtime\Cache\Admin\86260f151e905a457689981c5cfb4e00.php 第 27 行.
+NOTIC: [8] Undefined variable: res1 H:\www\auto\Application\Runtime\Cache\Admin\86260f151e905a457689981c5cfb4e00.php 第 28 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.085262s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.085371s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001915s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001951s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.007788s ]
+INFO: [ app_end ] --END-- [ RunTime:0.007827s ]
+
+[ 2018-03-15T16:38:49+08:00 ] 127.0.0.1 /index.php/Admin/Shitu/shitu.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000288s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000411s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000446s ]
+NOTIC: [2] file_get_contents(C:\Users\lenovo\Desktop\身份证.jpg): failed to open stream: Invalid argument H:\www\auto\Application\Common\Common\function.php 第 65 行.
+NOTIC: [8] Undefined index: words_result H:\www\auto\Application\Admin\Controller\ShituController.class.php 第 47 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000047s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000098s ]
+NOTIC: [8] Undefined variable: product H:\www\auto\Application\Runtime\Cache\Admin\86260f151e905a457689981c5cfb4e00.php 第 16 行.
+NOTIC: [8] Undefined variable: res H:\www\auto\Application\Runtime\Cache\Admin\86260f151e905a457689981c5cfb4e00.php 第 27 行.
+NOTIC: [8] Undefined variable: res1 H:\www\auto\Application\Runtime\Cache\Admin\86260f151e905a457689981c5cfb4e00.php 第 28 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008959s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009031s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000422s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000462s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000598s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000639s ]
+
+[ 2018-03-15T16:38:52+08:00 ] 127.0.0.1 /index.php/Admin/Shitu/shitu.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000259s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000376s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000409s ]
+NOTIC: [2] file_get_contents(C:\Users\lenovo\Desktop\身份证.jpg): failed to open stream: Invalid argument H:\www\auto\Application\Common\Common\function.php 第 65 行.
+NOTIC: [8] Undefined index: words_result H:\www\auto\Application\Admin\Controller\ShituController.class.php 第 47 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000100s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000226s ]
+NOTIC: [8] Undefined variable: product H:\www\auto\Application\Runtime\Cache\Admin\86260f151e905a457689981c5cfb4e00.php 第 16 行.
+NOTIC: [8] Undefined variable: res H:\www\auto\Application\Runtime\Cache\Admin\86260f151e905a457689981c5cfb4e00.php 第 27 行.
+NOTIC: [8] Undefined variable: res1 H:\www\auto\Application\Runtime\Cache\Admin\86260f151e905a457689981c5cfb4e00.php 第 28 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.017036s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.017143s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000654s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000719s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000993s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001051s ]
+
+[ 2018-03-15T16:38:54+08:00 ] 127.0.0.1 /index.php/Admin/Shitu/shitu.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000366s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000523s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000568s ]
+NOTIC: [2] file_get_contents(C:\Users\lenovo\Desktop\身份证.jpg): failed to open stream: Invalid argument H:\www\auto\Application\Common\Common\function.php 第 65 行.
+NOTIC: [8] Undefined index: words_result H:\www\auto\Application\Admin\Controller\ShituController.class.php 第 47 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000074s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000163s ]
+NOTIC: [8] Undefined variable: product H:\www\auto\Application\Runtime\Cache\Admin\86260f151e905a457689981c5cfb4e00.php 第 16 行.
+NOTIC: [8] Undefined variable: res H:\www\auto\Application\Runtime\Cache\Admin\86260f151e905a457689981c5cfb4e00.php 第 27 行.
+NOTIC: [8] Undefined variable: res1 H:\www\auto\Application\Runtime\Cache\Admin\86260f151e905a457689981c5cfb4e00.php 第 28 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.018526s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.018634s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000637s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000693s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000788s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000843s ]
+
+[ 2018-03-15T16:40:36+08:00 ] 127.0.0.1 /index.php/Admin/Shitu/shitu.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000264s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000440s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000474s ]
+NOTIC: [8] Undefined index: words_result H:\www\auto\Application\Admin\Controller\ShituController.class.php 第 47 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000075s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000168s ]
+NOTIC: [8] Undefined variable: product H:\www\auto\Application\Runtime\Cache\Admin\86260f151e905a457689981c5cfb4e00.php 第 16 行.
+NOTIC: [8] Undefined variable: res H:\www\auto\Application\Runtime\Cache\Admin\86260f151e905a457689981c5cfb4e00.php 第 27 行.
+NOTIC: [8] Undefined variable: res1 H:\www\auto\Application\Runtime\Cache\Admin\86260f151e905a457689981c5cfb4e00.php 第 28 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.017173s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.017276s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000569s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000641s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000779s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000831s ]
+
+[ 2018-03-15T16:45:22+08:00 ] 127.0.0.1 /index.php/Admin/Shitu/shitu.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000360s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000563s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000610s ]
+NOTIC: [8] Undefined index: words_result H:\www\auto\Application\Admin\Controller\ShituController.class.php 第 47 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000087s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000184s ]
+NOTIC: [8] Undefined variable: product H:\www\auto\Application\Runtime\Cache\Admin\86260f151e905a457689981c5cfb4e00.php 第 16 行.
+NOTIC: [8] Undefined variable: res H:\www\auto\Application\Runtime\Cache\Admin\86260f151e905a457689981c5cfb4e00.php 第 27 行.
+NOTIC: [8] Undefined variable: res1 H:\www\auto\Application\Runtime\Cache\Admin\86260f151e905a457689981c5cfb4e00.php 第 28 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.017538s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.017629s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000571s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000623s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000799s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000852s ]
+
+[ 2018-03-15T16:50:49+08:00 ] 127.0.0.1 /index.php/Admin/Shitu/shitu.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000715s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000789s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000855s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000067s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000147s ]
+NOTIC: [8] Undefined variable: product H:\www\auto\Application\Runtime\Cache\Admin\86260f151e905a457689981c5cfb4e00.php 第 16 行.
+NOTIC: [8] Undefined variable: res H:\www\auto\Application\Runtime\Cache\Admin\86260f151e905a457689981c5cfb4e00.php 第 27 行.
+NOTIC: [8] Undefined variable: res1 H:\www\auto\Application\Runtime\Cache\Admin\86260f151e905a457689981c5cfb4e00.php 第 28 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012450s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012527s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000578s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000621s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000804s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000849s ]
+
+[ 2018-03-15T16:51:13+08:00 ] 127.0.0.1 /index.php/Admin/Shitu/shitu.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000289s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000554s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000597s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000054s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000116s ]
+NOTIC: [8] Undefined variable: product H:\www\auto\Application\Runtime\Cache\Admin\86260f151e905a457689981c5cfb4e00.php 第 16 行.
+NOTIC: [8] Undefined variable: res H:\www\auto\Application\Runtime\Cache\Admin\86260f151e905a457689981c5cfb4e00.php 第 27 行.
+NOTIC: [8] Undefined variable: res1 H:\www\auto\Application\Runtime\Cache\Admin\86260f151e905a457689981c5cfb4e00.php 第 28 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009332s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009413s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000597s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000638s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000677s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000718s ]
+
+[ 2018-03-15T16:54:31+08:00 ] 127.0.0.1 /index.php/Admin/Shitu/shitu.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000311s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000468s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000507s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000070s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000157s ]
+NOTIC: [8] Undefined variable: product H:\www\auto\Application\Runtime\Cache\Admin\86260f151e905a457689981c5cfb4e00.php 第 16 行.
+NOTIC: [8] Undefined variable: res H:\www\auto\Application\Runtime\Cache\Admin\86260f151e905a457689981c5cfb4e00.php 第 27 行.
+NOTIC: [8] Undefined variable: res1 H:\www\auto\Application\Runtime\Cache\Admin\86260f151e905a457689981c5cfb4e00.php 第 28 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012570s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012658s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000686s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000758s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001040s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001108s ]
+
